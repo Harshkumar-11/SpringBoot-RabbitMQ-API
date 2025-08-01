@@ -129,15 +129,3 @@ curl http://localhost:8080/consume
 - [RabbitMQ Management Plugin](https://www.rabbitmq.com/management.html)
 
 ---
-
-## 👨‍💻 Author
-
-**Your Name**  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/your-profile)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
