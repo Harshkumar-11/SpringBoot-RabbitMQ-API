@@ -33,6 +33,7 @@ A simple Spring Boot application that demonstrates how to send and receive messa
 
 In your `pom.xml`, add:
 
+
 ```xml
 <dependency>
     <groupId>com.rabbitmq</groupId>
